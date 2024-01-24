@@ -6,5 +6,6 @@
 
 [pythonfile](https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python)
 
-![why]("pexels-ann-h-15368263.jpg")
+<img src="pexels-ann-h-15368263.jpg" width="300" height="400"> 
+
 ## The "What is your Why?" image is inspirational to because it helps me focus on the core reason I am doing something. The "why" you are doing something is a powerful motivator. This image helps me ignore the doubts, fears, and worries about starting something new. Instead I am able to maintain a clear minded, foucesd, and confident.
